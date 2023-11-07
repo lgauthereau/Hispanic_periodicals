@@ -8,7 +8,7 @@ Author Email or Website,apprec@central.uh.edu ,Insert your email or web address 
 Author Code Credit,"<a href=""http://datavizforall.org"">DataVizForAll</a>","Appears in credits as ""View code by..."" (or leave blank)",
 Author Code Repo,https://github.com/JackDougherty/leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code by..."" (or leave blank)",
 Map Settings,,"For help, see tutorial in DataVizForAll.org      ------>",http://www.datavizforall.org/leaflet/with-google-sheets
-Basemap Tiles,CartoDB.Positron,Select basemap background from drop-down menu,https://leaflet-extras.github.io/leaflet-providers/preview/
+Basemap Tiles,Stadia.StamenTerrain,Select basemap background from drop-down menu,https://leaflet-extras.github.io/leaflet-providers/preview/
 Cluster Markers,on,"Display tightly-packed groups of markers as numbers, until zoomed in to view details.",
 Intro Popup Text,,,
 Initial Zoom,,Leave blank to auto-zoom to display all markers (or insert number between 1 [zoomed out] and 18 [zoomed in]),
