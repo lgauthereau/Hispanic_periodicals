@@ -4,7 +4,7 @@ Map Title,Visual Bibliography of Hispanic Periodicals in the United States,Inser
 Map Subtitle,,Add context (or leave blank),
 Display Title,topleft,"Select position to display map title, or off",
 Author Name,Recovering the US HIspanic Literary Heritage ,"Appears in credits as ""View data by..."" (or leave blank)",
-Author Email or Website,recoveringtheUShispanic@gmail.com ,Insert your email or web address to appear as link in Author Name (or leave blank),
+Author Email or Website,apprec@central.uh.edu ,Insert your email or web address to appear as link in Author Name (or leave blank),
 Author Code Credit,"<a href=""http://datavizforall.org"">DataVizForAll</a>","Appears in credits as ""View code by..."" (or leave blank)",
 Author Code Repo,https://github.com/JackDougherty/leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code by..."" (or leave blank)",
 Map Settings,,"For help, see tutorial in DataVizForAll.org      ------>",http://www.datavizforall.org/leaflet/with-google-sheets
